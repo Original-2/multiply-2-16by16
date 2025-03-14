@@ -7,6 +7,7 @@ see other repo for control / decode logic
 
 ![image](https://github.com/user-attachments/assets/3bbb8e8f-a685-4d1e-bf52-880fba0d676c)
 
-![image](https://github.com/user-attachments/assets/930ed566-1b55-416a-97d5-550caaa308c5)
+![image](https://github.com/user-attachments/assets/e442424f-956d-41b1-9aa2-34c7462c0420)
+
 
 chose to write half to r7 because it is arbitrary cant fit any more informtion in the instruction
