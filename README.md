@@ -3,7 +3,8 @@
 
 see other repo for control / decode logic
 
-![image](https://github.com/user-attachments/assets/abd5372a-69b2-4df3-b457-c0ec510c1c2c)
+![image](https://github.com/user-attachments/assets/26c071b8-76b3-4e24-a2f4-bfa2f685621a)
+
 
 ![image](https://github.com/user-attachments/assets/3bbb8e8f-a685-4d1e-bf52-880fba0d676c)
 
@@ -29,3 +30,6 @@ DDDD × FFFF = DDDC2223
 
 ![image](https://github.com/user-attachments/assets/e08a968f-a629-4aab-a2f6-5a87d0fad0fe)
 f812 × 3fa4 = 3DAB5988
+
+![image](https://github.com/user-attachments/assets/d1650a04-02ec-4f46-ae08-4a2a32f63a1a)
+works on other regs
